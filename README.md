@@ -2,7 +2,7 @@
 <p>Me chamo Franco, sou estudante de Análise e Desenvolvimento de Sistemas, fiz estágio como QA e criei um interesse imenso pela área de qualidade de software. 
 Pretendo seguir realizando cursos e treinamentos para me tornar um profissional cada vez melhor, e me desenvolver mais nessa área tão importante para a tecnologia ❕</p>
 
-## Alguns dos conhecimentos que possuo:
+## _Alguns dos conhecimentos que possuo:_
 <ul>
  <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"></img>
  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"></img>
@@ -17,8 +17,8 @@ Pretendo seguir realizando cursos e treinamentos para me tornar um profissional 
           <img src="https://img.shields.io/badge/-JUnit-red"></img>
            </ul>
 
-## Quer saber mais? 
-_Clique no meu perfil abaixo e conecte-se comigo:_  😄</br>
+## _Quer saber mais?_
+_Clique no meu perfil abaixo e conecte-se comigo_  😄</br>
 </br>
 <a href="https://www.linkedin.com/in/francoroldao/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 
