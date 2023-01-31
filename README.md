@@ -1,5 +1,5 @@
 <h1 align="center"> Olá, seja bem-vindo (a) ao meu perfil 😄 </h1>
-<p>Me chamo Franco, sou estudante de Análise e Desenvolvimento de Sistemas, fiz estágio como QA e criei um interesse imenso pela área de qualidade de software. 
+<p>Me chamo Franco, sou formado em Análise e Desenvolvimento de Sistemas e trabalho na área de QA. 
 Pretendo seguir realizando cursos e treinamentos para me tornar um profissional cada vez melhor, e me desenvolver mais nessa área tão importante para a tecnologia ❕</p>
 
 ## _Alguns dos conhecimentos que possuo:_
