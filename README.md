@@ -1,12 +1,13 @@
 <h1 align="center"> Olá, seja bem-vindo (a) ao meu perfil 😄 </h1>
-<p>Me chamo Franco, sou formado em Análise e Desenvolvimento de Sistemas e trabalho na área de QA. 
-Pretendo seguir realizando cursos e treinamentos para me tornar um profissional cada vez melhor, e me desenvolver mais nessa área tão importante para a tecnologia ❕</p>
+<p>Me chamo Franco, sou formado em Análise e Desenvolvimento de Sistemas, trabalho na área de QA e gosto muito de aprender coisas novas!</p>
 
 <div align="center">
 <a href="https://github.com/FrancoRoldao">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrancoRoldao&show_icons=true&theme=dark&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoRoldao&layout=compact&langs_count=7&theme=dark"/>
 
+ 
+ 
  ## _Alguns dos conhecimentos que possuo:_
 <ul>
  <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"></img>
